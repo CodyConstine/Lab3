@@ -1,6 +1,6 @@
 # Lab3
 
-Cody Constine
+Griffith Neumark
 Lab 3: Version Control
 
 This might cause a merge conflict
